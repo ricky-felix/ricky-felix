@@ -86,13 +86,6 @@
   <img src="https://trophy.ryglcloud.net/?username=ricky-felix&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub trophies" />
 </p>
 
-<br/>
-
-<h3 align="center">📈 Contribution Activity</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ricky-felix/ricky-felix/output/github-snake-dracula.svg" alt="Contribution activity" width="100%" />
-</p>
-
 <h2 align="center">🤝 Connect with Me</h2>
 
 <br/>
