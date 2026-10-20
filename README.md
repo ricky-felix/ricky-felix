@@ -1,46 +1,129 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ricky%20Felix&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Designer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hi%20👋,%20I'm%20Ricky%20Felix&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Designer&descSize=18&descAlignY=55" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ricky-felix&label=PROFILE%20VIEWS&color=ff6e96&labelColor=282a36&style=for-the-badge" alt="Profile views" />
 </p>
 
-## 🧠 My Focus Areas
-- Front-end Development (for web and apps)
-- UI/UX
-- Product Manager
-- Consultant
+<br/>
 
+<h2>🙋‍♂️ About Me</h2>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ricky-felix&cache_seconds=7200&custom_title=My%20GitHub%20Statistics&theme=dracula&border_radius=10" alt="ricky-felix's GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=ricky-felix&theme=dracula&hide_border=true&border_radius=10&cache_seconds=86400" alt="ricky-felix's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ricky-felix&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ricky Felix's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-felix&theme=dracula&radius=10" alt="ricky-felix's Activity Graph" />
+<p>
+  👨‍💻 All of my projects are available at <a href="https://rickyfelix.vercel.app/"><b>rickyfelix.vercel.app</b></a>
+  <br/><br/>
+  📝 I regularly write articles on <a href="https://www.linkedin.com/in/ricky-felix/"><b>LinkedIn</b></a>
+  <br/><br/>
+  📄 Learn more about my experience at <a href="https://linktr.ee/rickyfelix.mr"><b>linktr.ee/rickyfelix.mr</b></a>
 </p>
 
+<br/>
 
-## 🛠️ Languages & Tools
+<h2>🧠 My Focus Areas</h2>
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricky-felix&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+<p>
+  💻 Front-end Development (for web and apps)
+  <br/><br/>
+  🎨 UI/UX
+  <br/><br/>
+  📦 Product Manager
+  <br/><br/>
+  💼 Consultant
 </p>
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/ricky-felix" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://rickyfelix.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<br/>
+
+---
+
+<br/>
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<br/>
+
+<h3 align="center">💬 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark" alt="Languages" />
+</p>
+
+<br/>
+
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap&theme=dark" alt="Frontend" />
+</p>
+
+<br/>
+
+<h3 align="center">⚙️ Backend & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" alt="Backend and databases" />
+</p>
+
+<br/>
+
+<h3 align="center">🧰 Design & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,postman,linux&theme=dark" alt="Design and tools" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/framer/white" alt="Framer" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/ifttt/white" alt="IFTTT" width="48" height="48" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<br/>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ricky-felix&custom_title=My%20GitHub%20Statistics&theme=dracula&border_radius=10&cache_seconds=7200" alt="GitHub stats" />
+  &nbsp;
+  <img height="180" src="https://streak-stats.demolab.com/?user=ricky-felix&theme=dracula&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub streak" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricky-felix&langs_count=8&layout=compact&theme=dracula&border_radius=10&cache_seconds=7200" alt="Top languages" />
+</p>
+
+<br/>
+
+<h3 align="center">🏆 Trophies</h3>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ricky-felix&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub trophies" />
+</p>
+
+<br/>
+
+<h3 align="center">📈 Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-felix&theme=dracula&radius=10&hide_border=true" alt="Activity graph" width="100%" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ricky-felix"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://rickyfelix.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff6e96?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linktr.ee/rickyfelix.mr"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,29&section=footer" width="100%" />
