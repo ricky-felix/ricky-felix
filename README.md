@@ -30,6 +30,29 @@
   </ul>
 </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<br/>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ricky-felix&custom_title=My%20GitHub%20Statistics&theme=dracula&border_radius=10&cache_seconds=7200" alt="GitHub stats" />
+  &nbsp;
+  <img height="180" src="https://streak-stats.demolab.com/?user=ricky-felix&theme=dracula&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub streak" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricky-felix&langs_count=8&layout=compact&theme=dracula&border_radius=10&cache_seconds=7200" alt="Top languages" />
+</p>
+
+<br/>
+
+<h3 align="center">🏆 Trophies</h3>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ricky-felix&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub trophies" />
+</p>
+
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <br/>
@@ -62,29 +85,6 @@
   <img src="https://cdn.simpleicons.org/framer/white" alt="Framer" width="48" height="48" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/ifttt/white" alt="IFTTT" width="48" height="48" />
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<br/>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ricky-felix&custom_title=My%20GitHub%20Statistics&theme=dracula&border_radius=10&cache_seconds=7200" alt="GitHub stats" />
-  &nbsp;
-  <img height="180" src="https://streak-stats.demolab.com/?user=ricky-felix&theme=dracula&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub streak" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricky-felix&langs_count=8&layout=compact&theme=dracula&border_radius=10&cache_seconds=7200" alt="Top languages" />
-</p>
-
-<br/>
-
-<h3 align="center">🏆 Trophies</h3>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ricky-felix&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub trophies" />
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
