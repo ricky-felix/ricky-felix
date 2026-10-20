@@ -1,40 +1,33 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hi%20👋,%20I'm%20Ricky%20Felix&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Designer&descSize=18&descAlignY=55" width="100%" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ricky-felix&label=PROFILE%20VIEWS&color=ff6e96&labelColor=282a36&style=for-the-badge" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricky-felix.ricky-felix&left_text=PROFILE%20VIEWS&left_color=%23282a36&right_color=%23ff6e96" alt="Profile views" />
 </p>
 
 <br/>
 
-<h2>🙋‍♂️ About Me</h2>
+<h2 align="center">🙋‍♂️ About Me</h2>
 
 <p>
-  👨‍💻 All of my projects are available at <a href="https://rickyfelix.vercel.app/"><b>rickyfelix.vercel.app</b></a>
-  <br/><br/>
-  📝 I regularly write articles on <a href="https://www.linkedin.com/in/ricky-felix/"><b>LinkedIn</b></a>
-  <br/><br/>
-  📄 Learn more about my experience at <a href="https://linktr.ee/rickyfelix.mr"><b>linktr.ee/rickyfelix.mr</b></a>
+  <ul>
+    <li>👨‍💻 All of my projects are available at <a href="https://rickyfelix.vercel.app/"><b>rickyfelix.vercel.app</b></a></li>
+    <li>📝 I regularly write articles on <a href="https://www.linkedin.com/in/ricky-felix/"><b>LinkedIn</b></a></li>
+    <li>📄 Learn more about my experience at <a href="https://linktr.ee/rickyfelix.mr"><b>linktr.ee/rickyfelix.mr</b></a></li>
+  </ul>
 </p>
 
 <br/>
 
-<h2>🧠 My Focus Areas</h2>
+<h2 align="center">🧠 My Focus Areas</h2>
 
-<p>
-  💻 Front-end Development (for web and apps)
-  <br/><br/>
-  🎨 UI/UX
-  <br/><br/>
-  📦 Product Manager
-  <br/><br/>
-  💼 Consultant
+<p align="center">
+  <ul>
+    <li>💻 Front-end Development (for web and apps)</li>
+    <li>🎨 UI/UX Design</li>
+    <li>📦 Product Manager</li>
+    <li>💼 Consultant</li>
+  </ul>
 </p>
-
-<br/>
-
----
-
-<br/>
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
@@ -70,12 +63,6 @@
   <img src="https://cdn.simpleicons.org/ifttt/white" alt="IFTTT" width="48" height="48" />
 </p>
 
-<br/>
-
----
-
-<br/>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <br/>
@@ -101,16 +88,10 @@
 
 <br/>
 
-<h3 align="center">📈 Activity Graph</h3>
+<h3 align="center">📈 Contribution Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-felix&theme=dracula&radius=10&hide_border=true" alt="Activity graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/ricky-felix/ricky-felix/output/github-snake-dracula.svg" alt="Contribution activity" width="100%" />
 </p>
-
-<br/>
-
----
-
-<br/>
 
 <h2 align="center">🤝 Connect with Me</h2>
 
