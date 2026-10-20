@@ -11,7 +11,8 @@
 <p>
   <ul>
     <li>👨‍💻 All of my projects are available at <a href="https://rickyfelix.vercel.app/"><b>rickyfelix.vercel.app</b></a></li>
-    <li>📝 I regularly write articles on <a href="https://www.linkedin.com/in/ricky-felix/"><b>LinkedIn</b></a></li>
+    <li>👨‍💼 All of my freelance projects are available at <a href="https://www.titikjalin.space/"><b>https://www.titikjalin.space</b></a></li>
+    <li>📝 I regularly open and checkout my LinkedIn on <a href="https://www.linkedin.com/in/ricky-felix/"><b>https://www.linkedin.com/in/ricky-felix</b></a></li>
     <li>📄 Learn more about my experience at <a href="https://linktr.ee/rickyfelix.mr"><b>linktr.ee/rickyfelix.mr</b></a></li>
   </ul>
 </p>
