@@ -10,7 +10,7 @@
 - Front-end Development (for web and apps)
 - UI/UX
 - Product Manager
-- AI Engineer (Future plans)
+- Consultant
 
 
 ## 📊 GitHub Stats & Trophies
