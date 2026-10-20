@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hi%20👋,%20I'm%20Ricky%20Felix&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Designer&descSize=18&descAlignY=55" width="100%" />
 
-<div align="center">
-  <p>Since 20 October 2026 - <img src="https://visitor-badge.laobi.icu/badge?page_id=ricky-felix.ricky-felix&left_text=PROFILE%20VIEWS&left_color=%23282a36&right_color=%23ff6e96" alt="Profile views" /> </p>
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricky-felix.ricky-felix&left_text=PROFILE%20VIEWS%20(SINCE%2020%20OCT%202026)=&left_color=%23282a36&right_color=%23ff6e96" alt="Profile views" />
+</p>
 
 <br/>
 
