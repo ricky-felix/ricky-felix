@@ -23,8 +23,7 @@
 
 <p align="center">
   <ul>
-    <li>💻 Front-end Development (for web and apps)</li>
-    <li>🎨 UI/UX Design</li>
+    <li>🖥️ Full Stack Designer (UI/UX + Frontend) for Website and Webapp</li>
     <li>📦 Product Manager</li>
     <li>💼 Consultant</li>
   </ul>
