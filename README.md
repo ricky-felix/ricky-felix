@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ricky%20Felix&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Designer&descSize=18&descAlignY=55&textBg=false"/>
 
 <div align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=ricky-felix&color=00FFFF&style=flat-square)
+  [Profile views](https://komarev.com/ghpvc/?username=ricky-felix&color=00FFFF&style=flat-square)
 </div>
 
 ## 🧠 My Focus Areas
